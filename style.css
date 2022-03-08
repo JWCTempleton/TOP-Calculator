@@ -10,10 +10,18 @@ html {
     line-height: 1.6;
 }
 
-#container{
+#container {
     width: 40vw;
     height: 75vh;
     border: 3px solid black;
     margin: 8rem auto;
     border-radius: 1rem;
+}
+
+.display {
+    width: 70%;
+    height: 6.5rem;
+    border: 2px solid black;
+    margin: 4rem auto;
+    border-radius: .5rem;
 }
